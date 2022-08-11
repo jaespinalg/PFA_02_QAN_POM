@@ -77,3 +77,5 @@ implementation 'com.google.guava:guava:23.0'
 ## Imagenes de la automatización
 
 [![Test-passed.png](https://i.postimg.cc/7ZZH992n/Test-passed.png)](https://postimg.cc/kBLPXxw2)
+
+[![Reporte.png](https://i.postimg.cc/gJSqwN8t/Reporte.png)](https://postimg.cc/ZBNy2Pf6)
