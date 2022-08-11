@@ -73,3 +73,7 @@ implementation 'com.google.guava:guava:23.0'
 ## Autor
 
 * John Alexander Espinal Gómez (Automatización completa)
+
+## Imagenes de la automatización
+
+[![Test-passed.png](https://i.postimg.cc/7ZZH992n/Test-passed.png)](https://postimg.cc/kBLPXxw2)
